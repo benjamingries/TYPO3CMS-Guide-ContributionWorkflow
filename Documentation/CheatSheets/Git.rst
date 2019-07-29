@@ -185,3 +185,5 @@ See also these not TYPO3 specific cheat sheets for git if you are not very famil
 * `cheat sheet for git
   <https://services.github.com/on-demand/downloads/github-git-cheat-sheet/>`__
 * `"git - the simple guide" by Roger Dudler <http://rogerdudler.github.io/git-guide/>`__
+* `"Oh, shit, git!" by Katie Sylor-Miller <https://ohshitgit.com/>`__ is basically a cheat sheet for Git, but
+  focuses mostly on fixing things that went wrong.
